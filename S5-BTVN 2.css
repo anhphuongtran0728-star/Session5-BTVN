@@ -1,0 +1,17 @@
+.Item{
+    width: 700px;
+    height: 50px;
+    color: aliceblue;
+    background-color: gray;
+    margin: 10px;
+    padding-left: 15px;
+    border: none;
+    display: block;
+    font-size: 15px;
+    text-align: left;
+    line-height: 50px;
+    }
+.Item:hover{
+    background-color: dimgray;
+    width: 715px;
+}
